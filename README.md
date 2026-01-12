@@ -116,6 +116,17 @@ Since, I have used a single table, there was not a need for data modeling.
 
   Business Action: Improve landing page relevance for Facebook ads or refine audience targeting.
 
+
+ ## Device Performance Insights
+
+  ([<img width="277" height="101" alt="image" src="https://github.com/user-attachments/assets/f73e74a4-bbe8-4717-b192-625352ef3464" />])
+
+  Desktop drives the highest revenue as expected.
+
+  Mobile conversion rate is slightly lower than desktop.
+
+  
+
   
 
 
