@@ -10,4 +10,8 @@ The goal of this project is to understand where users come from, how they behave
 I have used Google-Analytics style e-commerce dataset which can be easily found on Kaggle. This dataset has columns as Date, User_ID, Session_ID, Source, Medium, Channel, Device, Sessions, Transactions, Revenue, Bounce.
 
 # Key questions the project answers: 
+1. Which channels bring the most traffic?
+2. Which channels generate the most revenue?
+3. Where are users dropping off?
+4. Which source has the best conversion rate?
 
