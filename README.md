@@ -96,6 +96,15 @@ Since, I have used a single table, there was not a need for data modeling.
     
  ([<img width="300" height="154" alt="image" src="https://github.com/user-attachments/assets/0e2153d2-18c3-4b5e-ad53-acb450a458fc" />])
 
+ Bing is the highest revenue contributor, indicating intent driven traffic.
+
+ Google and Instagram deliver strong conversion rate,proving social media is not just traffic-heavy but also revenue-effective.
+
+ LinkedIn has lower Conversion Rate, may be due to less engaging campaigns.
+
+ * Business Action : Increase budget for Bing, Google and Instagram, optimize Email campaigns with personalization. 
+ 
+
 
     
 
