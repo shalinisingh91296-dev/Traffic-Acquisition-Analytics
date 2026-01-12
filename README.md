@@ -104,9 +104,17 @@ Since, I have used a single table, there was not a need for data modeling.
 
  * Business Action : Increase budget for Bing, Google and Instagram, optimize Email campaigns with personalization. 
  
+ ## Bounce Rate Insight ( Traffic Quality)
 
+  ([<img width="108" height="126" alt="Screenshot 2026-01-12 183032" src="https://github.com/user-attachments/assets/08cf5168-bdb5-41cd-a681-c2808035a4ae" />])
 
-    
+  Facebook has the highest bounce rate(32%)
+
+  Google has a comparitively lower bounce rate (30%)
+
+  Interpretation: Users from Facebook are clicking but not engaging, likely due to mismatch betweeb copy and landing page.
+
+  Business Action: Improve landing page relevance for Facebook ads or refine audience targeting.
 
   
 
