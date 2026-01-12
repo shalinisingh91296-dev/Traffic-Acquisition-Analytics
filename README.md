@@ -93,8 +93,8 @@ Since, I have used a single table, there was not a need for data modeling.
   This indicates healty e-commerce performance, with roughly 1 in 5 sessions converting.
 
  ## Traffice Source Performance insights
-
- ([<img width="348" height="127" alt="image" src="https://github.com/user-attachments/assets/5f8e2541-68e4-48a8-ad5a-82a0c8fac2fb" />])
+    
+ ([<img width="300" height="154" alt="image" src="https://github.com/user-attachments/assets/0e2153d2-18c3-4b5e-ad53-acb450a458fc" />])
 
 
     
