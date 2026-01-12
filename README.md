@@ -94,7 +94,10 @@ Since, I have used a single table, there was not a need for data modeling.
 
  ## Traffice Source Performance insights
 
-    <img width="348" height="127" alt="image" src="https://github.com/user-attachments/assets/8106aff8-590e-4c68-ad01-42575e6a4ba3" />
+ ([<img width="348" height="127" alt="image" src="https://github.com/user-attachments/assets/5f8e2541-68e4-48a8-ad5a-82a0c8fac2fb" />])
+
+
+    
 
   
 
