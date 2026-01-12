@@ -34,19 +34,19 @@ Since, I have used a single table, there was not a need for data modeling.
 
 # Core DAX measures for this projects are as mentioned
 
-Total Sessions = SUM('Traffic'[Sessions])
+## Total Sessions = SUM('Traffic'[Sessions])
 
-Total Users = DISTINCTCOUNT('Traffic'[User_ID])
+## Total Users = DISTINCTCOUNT('Traffic'[User_ID])
 
-Total Revenue = SUM('Traffic'[Revenue
+## Total Revenue = SUM('Traffic'[Revenue
 
-Total Orders = SUM('Traffic'[Orders])
+## Total Orders = SUM('Traffic'[Orders])
 
-Conversion Rate = DIVIDE([Total Orders], [Total Sessions])
+## Conversion Rate = DIVIDE([Total Orders], [Total Sessions])
 
-Bounce Rate = DIVIDE(SUM('Traffic'[Bounce]), [Total Sessions])
+## Bounce Rate = DIVIDE(SUM('Traffic'[Bounce]), [Total Sessions])
 
-AOV = DIVIDE([Total Revenue], [Total Orders])
+## AOV = DIVIDE([Total Revenue], [Total Orders])
 
 # Dashboard Design
 
