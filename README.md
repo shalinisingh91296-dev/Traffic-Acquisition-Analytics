@@ -15,3 +15,15 @@ I have used Google-Analytics style e-commerce dataset which can be easily found 
 3. Where are users dropping off?
 4. Which source has the best conversion rate?
 
+
+# Load data into Power BI
+1. Open Power BI desktop
+2. click Get Data - CSV/Excel file
+3. Load the dataset
+4. Go to Power Query Editor
+
+# Cleaning steps ( Clean data ensures correct KPIs and DAX calculations)
+1. Removed Null values
+2. Converted Date to Date format
+3. Renamed column for clarity
+4. Ensured Sessions, Revenue, Transactions are numeric
