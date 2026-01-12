@@ -81,9 +81,13 @@ Since, I have used a single table, there was not a need for data modeling.
 
  ##Summary
   Total Sessions = 5,000
+  
   Total Users = 3574
+  
   Total Orders = 1074
+  
   Total Revenue = 229,623.78
+  
   Overall Conversion Rate = 21.5%
 
   This indicates healty e-commerce performance, with roughly 1 in 5 sessions converting.
