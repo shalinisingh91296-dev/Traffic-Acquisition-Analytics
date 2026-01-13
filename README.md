@@ -125,6 +125,29 @@ Since, I have used a single table, there was not a need for data modeling.
 
   Mobile conversion rate is slightly lower than desktop.
 
+  Tablet users convert good despite low traffic.
+
+  Business Action: Improve mobile checkout flow to boost conversions and scale tablet optimized UX.
+
+ ## Country level Insights
+
+ ([<img width="294" height="148" alt="image" src="https://github.com/user-attachments/assets/b4dfdc8a-1bb1-46ed-8e25-daf3e549ac39" />])
+
+ Revenue is well-distributed accross geographies, reducing dependency risk.
+
+ Australia and Canada outperform like larger market like US.
+
+ Business Action: Increase marketing focus on Australia and Canada due to high revenue efficiency.
+
+
+## Funnel Health Insights
+
+  Sessions to Orders conversion is strong(21%)
+
+  Bounce exist but not alarming, except on paid social channels.
+
+  Conclusion-The funnel is healthy, but performance can be improved by better traffic quality rather than more traffic.
+
   
 
   
